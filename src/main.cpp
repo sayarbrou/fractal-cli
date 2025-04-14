@@ -2,10 +2,10 @@
 #include <fstream>
 #include <cmath>
 
-#include "mandelbrot/InputParser.hpp"
-#include "mandelbrot/Fractal.hpp"
-#include "mandelbrot/Gradient.hpp"
-#include "mandelbrot/Color.hpp"
+#include "fractal-cli/InputParser.hpp"
+#include "fractal-cli/Fractal.hpp"
+#include "fractal-cli/Gradient.hpp"
+#include "fractal-cli/Color.hpp"
 
 int main(int argc, char **argv) {
     InputParser input(argc, argv);

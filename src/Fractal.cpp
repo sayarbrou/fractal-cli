@@ -1,4 +1,4 @@
-#include "mandelbrot/Fractal.hpp"
+#include "fractal-cli/Fractal.hpp"
 
 #include <cmath>
 

@@ -1,4 +1,4 @@
-#include "mandelbrot/InputParser.hpp"
+#include "fractal-cli/InputParser.hpp"
 
 #include <algorithm>
 #include <string>

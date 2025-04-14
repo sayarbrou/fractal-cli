@@ -1,4 +1,4 @@
-#include "mandelbrot/Gradient.hpp"
+#include "fractal-cli/Gradient.hpp"
 
 #include <string>
 #include <sstream>

@@ -1,4 +1,4 @@
-#include "mandelbrot/Color.hpp"
+#include "fractal-cli/Color.hpp"
 
 #include <string>
 #include <sstream>

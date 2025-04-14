@@ -1,4 +1,4 @@
-#include "mandelbrot/Buffer.hpp"
+#include "fractal-cli/Buffer.hpp"
 
 #include <vector>
 #include <string>
